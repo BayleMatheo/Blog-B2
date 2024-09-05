@@ -16,14 +16,14 @@ export const Skills = () => {
                         <PythonIcon size={42}/>
                     </div>
                     <h3 className="text-2xl font-semibold tracking-tight">Python</h3>
-                    <p className="text-sm text-muted-foreground">Python was the first language I learned, and it's the one I've grown with the most as a developer.</p>
+                    <p className="text-sm text-muted-foreground">Python was the first language I learned, and it&apos;s the one I&apos;ve grown with the most as a developer.</p>
                 </div>
                 <div>
                     <div className="flex flex-col gap-2">
                         <ReactIcon size={42}/>
                     </div>
                     <h3 className="text-2xl font-semibold tracking-tight">React</h3>
-                    <p className="text-sm text-muted-foreground">I've been using React, and though I'm new to it, I enjoy working with it.</p>
+                    <p className="text-sm text-muted-foreground">I&apos;ve been using React, and though I&apos;m new to it, I enjoy working with it.</p>
                 </div>
             
             </div>
